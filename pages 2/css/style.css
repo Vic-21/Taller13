@@ -109,7 +109,6 @@ i{
 }
 /*FOOTER*/
 #footer{
-    position: fixed;
     display: flex;
     margin-top:20px;
     width: 100%;

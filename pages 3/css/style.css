@@ -27,7 +27,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
 
-    height: 1400px;
+    height: 1800px;
 }
 
 #parrafo{
@@ -42,11 +42,31 @@ h1 {
     border-radius: 10px;
     color: #ffffff;
     margin:20px;
+    width: 90px;
+    display: inline-block;
+    text-align: center;
+}
+
+.action-button2{
+    display: block;
+    padding: 15px;
+    background-color: #334569;
+    border-radius: 10px;
+    color: #ffffff;
+    margin:20px;
+    width: 90px;
+    text-align: center;
+
 }
 
 #cajahorizontal{
-    border-color: #334569; 
-    display: inline;
+    margin: 20px;
+    border-color: #334569;
+}
+#cajavertical{
+    margin: 40px 0px 0px 20px;
+    border-color: #596938; 
+
 }
 #footer{
     position: fixed;

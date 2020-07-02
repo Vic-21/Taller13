@@ -58,14 +58,24 @@ h1 {
     text-align: center;
 
 }
-
+/* aplicación de la caja horizontal */
 #cajahorizontal{
     margin: 20px;
-    border-color: #334569;
+    padding: 20px;
+    background-color: #9EB3C3;
+    width: 500px;
+    text-align: center;
+
 }
+/* aplicacion de la caja vertical */
 #cajavertical{
-    margin: 40px 0px 0px 20px;
-    border-color: #596938; 
+    margin: 20px;
+    padding: 20px;
+    background-color: #9EB3C3;
+    width: 170px;
+    height: 250px;
+
+    text-align: center;
 
 }
 #footer{
